@@ -5,13 +5,13 @@
 Summary:	Portable C Audio Library
 Summary(pl.UTF-8):	Portable C Audio Library - przenośna biblioteka C do dźwięku
 Name:		pcaudiolib
-Version:	1.1
+Version:	1.2
 Release:	1
 License:	GPL v3+
 Group:		Libraries
 #Source0Download: https://github.com/espeak-ng/pcaudiolib/releases
 Source0:	https://github.com/espeak-ng/pcaudiolib/archive/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	bce3d92e1f374779d7bfef55ebb99f0a
+# Source0-md5:	9ef1255054dead5a2c110a41c16e09b2
 URL:		https://github.com/espeak-ng/pcaudiolib
 BuildRequires:	alsa-lib-devel
 BuildRequires:	autoconf >= 2.65
